@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579656389927",
+    "project_id": "tobeto1",
+    "storage_bucket": "tobeto1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579656389927:android:5e79212b697510f8b58502",
+        "android_client_info": {
+          "package_name": "com.example.firebaselesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ASmA9KvHh-yzuyrI1nh37E8IDerw1Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
